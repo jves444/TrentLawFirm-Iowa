@@ -1,4 +1,4 @@
-Note: This project was created with the help of AI tools.
+Note: This project was created with the help of AI tools. - HOLLIJEVS.ME88
 
 I built this website with the help of AI tools to speed up the process and focus on creativity. Using AI allowed me to:
 
