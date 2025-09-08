@@ -173,7 +173,7 @@ const lawyers = [
     education: "B.A. in Economics (with honors) and minor in Legal Studies, University of Northern Iowa; A.A., Hawkeye Community College",
     phone: "(515) 555-1901",
     email: "Tristen.Prouse@TrentLawIowa.com",
-    image: "/public/tristen_prouse.jpg",
+    image: "/tristen_prouse.jpg",
     imageAlt:""
   }
 ];
