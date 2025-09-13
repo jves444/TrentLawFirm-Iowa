@@ -38,3 +38,22 @@ This project is built with:
 Also include requirements.txt for virtual environments
 
 - /requirements.txt
+
+
+
+SEO for Sitemap
+
+run: node generate-sitemap.js
+
+This will create a file at:
+
+/public/sitemap.xml
+
+ Deploy & Submit
+
+    Deploy your build to production as usual.
+
+    Your sitemap URL will be:
+    https://www.yourlawfirm.com/sitemap.xml
+
+    Submit that URL to Google Search Console and Bing Webmaster Tools 

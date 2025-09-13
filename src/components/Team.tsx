@@ -67,7 +67,7 @@ const lawyers = [
     education: "J.D., University of Iowa College of Law; B.A. in Political Science, University of Northern Iowa (Summa Cum Laude)",
     phone: "(515) 555-0987",
     email: "Laura.Range@TrentLawIowa.com",
-    image: "/public/laura_range.jpg",
+    image: "/laura_range.jpg",
     imageAlt: "Laura Range Practicing law since 2005; Attorney at Trent Law Firm; Former Managing Editor of JGRJ; Community volunteer and presenter for National Business Institute"
   }, 
   {
